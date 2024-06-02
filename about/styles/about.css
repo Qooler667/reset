@@ -1,0 +1,12 @@
+* {
+    color: cadetblue;
+}
+
+@font-face {
+    font-family: "Jacquard12";
+    src: url(../fonts/Jacquard_12/Jacquard12-Regular.ttf);
+}
+
+h2 {
+    font-family: "Jacquard12";
+}

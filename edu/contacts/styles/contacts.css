@@ -1,0 +1,12 @@
+* {
+    color: brown;
+}
+
+@font-face {
+    font-family: "DancingScript";
+    src: url(../fonts/Dancing_Script/DancingScript-Regular.ttf);
+}
+
+h2 {
+    font-family: "DancingScript";
+}
